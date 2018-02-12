@@ -112,7 +112,7 @@ Recherche de **Proche en proche**
 
 Pour retrouver cette présentation : 
 
-https://gitpitch.com/helenelax/presentation/UE3-VeilleAAP
+https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
 ### Des ressources complémentaires
