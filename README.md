@@ -1,2 +1,2 @@
-# presentation-UE3-VeilleAAP
-Repo pour la présentation de la veille AAP pour l'UE3
+# Présentation réalisée dans le cadre de l'UE6 de la LP CEEDDR
+2017
