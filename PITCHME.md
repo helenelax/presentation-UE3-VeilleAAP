@@ -130,7 +130,7 @@ Le tableau partagé pour noter les sources : https://framacalc.org/ceeddrue617
 ### Astuces Google 1/2
 * Pour trouver une page similaire à une page pertinente, il faut cliquer sur le triangle vert puis sur Page Similaire
 
-![Page similaire](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=PageSimilaire.png&t=ZyEBni8j9HCXMKA&scalingup=0)
+![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)
 
 
 **Attention cela ne fonctionne pas sur toutes les pages**
