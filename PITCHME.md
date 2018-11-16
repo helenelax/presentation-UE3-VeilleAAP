@@ -18,7 +18,7 @@ La veille
 ---
 
 ## Processus ITÉRATIF et CONTINU
-![pandas faisant du tobbogan](https://giphy.com/embed/3o6UBoDdWrnsGDhGtG)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ieaUdBJJC19uw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/panda-slide-ieaUdBJJC19uw">via GIPHY</a></p>
 
 ---
 
@@ -57,7 +57,7 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 ---
 
 ## Cibler sa veille
-- ![cible](https://media.giphy.com/media/QFypAZbq5lz3i/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/QFypAZbq5lz3i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-pixar-disneypixar-QFypAZbq5lz3i">via GIPHY</a></p>
 
 +++
 
@@ -112,11 +112,11 @@ Recherche de **Proche en proche**
 
 ## En pratique  
 
-![chat tapant frénétiquement sur un ordinateur portable](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=3640f6095beedb846f53354355aac24e)
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
 
 +++
 
-et on rassemble tout ici : 
+et on rassemble tout ce que l'on trouve ici : 
 https://lite.framacalc.org/ceeddrue618
 
 ---
@@ -133,12 +133,15 @@ Qui lance et qui relaye les AAP ?
 ### 1 bis. Trouver la page sur le site
 * Via les fonctions de recherche interne
 
++++
+
 ### 1bis. Trouver la page sur le site
 * Via Google
 mots clé **site:**adresse du site
+
 Exemple pour trouver les appels à projet sur le site de la région nouvelle Aquitaine
 
-`appels à projet site:https://www.nouvelle-aquitaine.fr`
+*appels à projet site:https://www.nouvelle-aquitaine.fr*
 
 ---
 
@@ -155,12 +158,15 @@ Exemple pour trouver les appels à projet sur le site de la région nouvelle Aqu
 ### 3. Je rebondis de proche en proche
 * fonction *pages similaires* du moteur de recherche
 
-![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)
+![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)  
+
 **Attention cela ne fonctionne pas sur toutes les pages**
+
++++
 
 ou je cherche dans Google *related:adresse de la page*  
 Exemple : 
-*related:https://www.ac-strasbourg.fr/pedagogie/edd/elaborer-un-projet/les-appels-a-projets-locaux/*
+	related:https://www.ac-strasbourg.fr/pedagogie/edd/elaborer-un-projet/les-appels-a-projets-locaux/
 
 +++
 
@@ -171,7 +177,9 @@ Exemple :
 
 ## Suivre l'actualité des sites repérés
 
-![Caméras de surveillance](https://media3.giphy.com/media/Rt5s6sVU4842Q/giphy.gif?cid=3640f6095beede2f7a45476e5572fbe4)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/NASo2mysXghDq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/camera-mograph-surveillance-NASo2mysXghDq">via GIPHY</a></p>
+
++++
 
 ## Suivre l'actualité des sites repérés
 
@@ -182,16 +190,45 @@ Exemple :
 ## Suivre l'actualité des sites repérés
 
 * S'abonner aux flux RSS
-    * L'exemple d'Inoreader
-   * [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
+   * L'exemple d'Inoreader
+   * Pour aller + loin :  [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
 
 +++
 
 ## Suivre l'actualité des sites repérés
 * On peut suivre un site qui n'a pas de flux RSS mais c'est un peu plus compliqué
-[Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH)  
- ---
+* Pour aller + loin : [Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH)  
 
+---
+
+## Sans trier soit même ses sources...
+
++++
+
+### Se créer des alertes
+* TalkwalkerAlert
+* Google Alert
+
++++
+
+### Sur les réseaux sociaux
+* Enregistrer des recherches
+* Utiliser TweetDeck
+
++++
+
+### Avantages et inconvénients de ne pas trier ses sources
+* Nécessaire de valider *a posteriori*
+* Ouverture vers d'autres sources
+
+---
+@ul
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
 
 ---
 ### Des ressources complémentaires
