@@ -112,8 +112,7 @@ Recherche de **Proche en proche**
 
 ## En pratique  
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
-
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 +++
 
 et on rassemble tout ce que l'on trouve ici : 
@@ -218,19 +217,13 @@ Exemple :
 +++
 
 ### Avantages et inconvénients de ne pas trier ses sources
+@ul
 * Nécessaire de valider *a posteriori*
 * Ouverture vers d'autres sources
-
----
-@ul
-
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
-
 @ulend
 
 ---
+
 ### Des ressources complémentaires
 
 * [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
