@@ -18,7 +18,7 @@ La veille
 ---
 
 ## Processus ITÉRATIF et CONTINU
-<iframe src="https://giphy.com/embed/3o6UBoDdWrnsGDhGtG" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![pandas faisant du tobbogan](https://giphy.com/embed/3o6UBoDdWrnsGDhGtG)
 
 ---
 
@@ -111,7 +111,13 @@ Recherche de **Proche en proche**
 ---
 
 ## En pratique  
-et on rassemble tout ici : https://lite.framacalc.org/ceeddrue618
+
+![chat tapant frénétiquement sur un ordinateur portable](https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=3640f6095beedb846f53354355aac24e)
+
++++
+
+et on rassemble tout ici : 
+https://lite.framacalc.org/ceeddrue618
 
 ---
 
@@ -120,60 +126,72 @@ Qui lance et qui relaye les AAP ?
 
 ---
 
-1. Je commence avec ce que je sais déjà
+### 1. Je commence avec ce que je sais déjà
 
 +++
 
-1 bis. Trouver la page sur le site
-* Via les fonctions de recherche
-* via Google
+### 1 bis. Trouver la page sur le site
+* Via les fonctions de recherche interne
 
+### 1bis. Trouver la page sur le site
+* Via Google
+mots clé **site:**adresse du site
 Exemple pour trouver les appels à projet sur le site de la région nouvelle Aquitaine
 
 `appels à projet site:https://www.nouvelle-aquitaine.fr`
 
-
 ---
 
-2. J'élargis en cherchant sur le web
+### 2. J'élargis en cherchant sur le web
 * Quels mots-clés ?
 
 +++
 
-2. J'élargis en cherchant sur le web
+### 2. J'élargis en cherchant sur le web
 * Les pages les plus récentes
 
 ---
 
-3. Je rebondis de proche en proche
-* *pages similaires* du moteur de recherche
-Pour trouver une page similaire à une page pertinente, il faut cliquer sur le triangle vert puis sur Page Similaire
+### 3. Je rebondis de proche en proche
+* fonction *pages similaires* du moteur de recherche
 
 ![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)
 **Attention cela ne fonctionne pas sur toutes les pages**
 
-ou je cherche dans Google *related:adresse de la page*
+ou je cherche dans Google *related:adresse de la page*  
+Exemple : 
+*related:https://www.ac-strasbourg.fr/pedagogie/edd/elaborer-un-projet/les-appels-a-projets-locaux/*
 
 +++
 
-3. Je rebondis de proche en proche
+### 3. Je rebondis de proche en proche
 * blogroll/liste de lien 
 
 ---
 
 ## Suivre l'actualité des sites repérés
 
-* s'abonner à la newsletter
+![Caméras de surveillance](https://media3.giphy.com/media/Rt5s6sVU4842Q/giphy.gif?cid=3640f6095beede2f7a45476e5572fbe4)
+
+## Suivre l'actualité des sites repérés
+
+* S'abonner à la newsletter
 
 +++
 
 ## Suivre l'actualité des sites repérés
-* s'abonner aux flux RSS
+
+* S'abonner aux flux RSS
+    * L'exemple d'Inoreader
+   * [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
 
 +++
+
 ## Suivre l'actualité des sites repérés
 * On peut suivre un site qui n'a pas de flux RSS mais c'est un peu plus compliqué
-* [Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH) 
+[Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH)  
+ ---
+
 
 ---
 ### Des ressources complémentaires
