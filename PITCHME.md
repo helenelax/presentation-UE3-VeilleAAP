@@ -110,9 +110,70 @@ Recherche de **Proche en proche**
 
 ---
 
-Pour retrouver cette présentation : 
+## En pratique  
+et on rassemble tout ici : https://lite.framacalc.org/ceeddrue618
 
-https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
+---
+
+### Trouver des sources 
+Qui lance et qui relaye les AAP ?
+
+---
+
+1. Je commence avec ce que je sais déjà
+
++++
+
+1 bis. Trouver la page sur le site
+* Via les fonctions de recherche
+* via Google
+
+Exemple pour trouver les appels à projet sur le site de la région nouvelle Aquitaine
+
+`appels à projet site:https://www.nouvelle-aquitaine.fr`
+
+
+---
+
+2. J'élargis en cherchant sur le web
+* Quels mots-clés ?
+
++++
+
+2. J'élargis en cherchant sur le web
+* Les pages les plus récentes
+
+---
+
+3. Je rebondis de proche en proche
+* *pages similaires* du moteur de recherche
+Pour trouver une page similaire à une page pertinente, il faut cliquer sur le triangle vert puis sur Page Similaire
+
+![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)
+**Attention cela ne fonctionne pas sur toutes les pages**
+
+ou je cherche dans Google *related:adresse de la page*
+
++++
+
+3. Je rebondis de proche en proche
+* blogroll/liste de lien 
+
+---
+
+## Suivre l'actualité des sites repérés
+
+* s'abonner à la newsletter
+
++++
+
+## Suivre l'actualité des sites repérés
+* s'abonner aux flux RSS
+
++++
+## Suivre l'actualité des sites repérés
+* On peut suivre un site qui n'a pas de flux RSS mais c'est un peu plus compliqué
+* [Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH) 
 
 ---
 ### Des ressources complémentaires
@@ -123,26 +184,12 @@ https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 * [Tweetdeck](https://tweetdeck.twitter.com/) : permet de gérer son compte Twitter plus finement, notamment en ayant des colonnes présentant directement les résultats de requêtes pré-enregistrées. Il faut avoir un compte Twitter et c'est avec lui qu'on se connecter à Tweetdeck
 
 ---
+Pour retrouver cette présentation : 
 
-Le tableau partagé pour noter les sources : https://framacalc.org/ceeddrue617
+https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
-### Astuces Google 1/2
-* Pour trouver une page similaire à une page pertinente, il faut cliquer sur le triangle vert puis sur Page Similaire
 
-![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)
-
-
-**Attention cela ne fonctionne pas sur toutes les pages**
-
-+++
-### Astuces Google 2/2
-
-* Pour chercher dans un gros site via Google : 
-
-Exemple pour trouver les appels à projet sur le site de la région nouvelle Aquitaine
-
-`appels à projet site:https://www.nouvelle-aquitaine.fr`
 
 
 
