@@ -18,7 +18,7 @@ La veille
 ---
 
 ## Processus ITÉRATIF et CONTINU
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ieaUdBJJC19uw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/panda-slide-ieaUdBJJC19uw">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ieaUdBJJC19uw" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
 ---
 
@@ -57,7 +57,7 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 ---
 
 ## Cibler sa veille
-<div style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/QFypAZbq5lz3i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/disney-pixar-disneypixar-QFypAZbq5lz3i">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/QFypAZbq5lz3i" width="480" height="199" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 +++
 
@@ -176,7 +176,7 @@ Exemple :
 
 ## Suivre l'actualité des sites repérés
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/NASo2mysXghDq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/camera-mograph-surveillance-NASo2mysXghDq">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/NASo2mysXghDq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 +++
 
