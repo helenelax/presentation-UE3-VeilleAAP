@@ -1,240 +1,129 @@
+<!--Memento-->
 
-La veille
-=============================================
+<!-- Permet de personnaliser le texte qui apparait dans TOC-->
+<!-- @title[titre modifié]-->
 
-## À quoi ça sert ?
+<!-- Permet d'avoir un cartouche autour du titre-->
+<!--<p><span class="slide-title">JavaScript Block</span></p>-->
 
----
+<!--permet d'ajouter une icone : https://fontawesome.com/icons?d=gallery-->
+<!--@fa[arrows]-->
 
-## Différents types de veille
+<!--permet de sauter une ligne-->
+<!--<br>-->
 
-+++
-* Informative
-* Concurentielle
-* Tendances
-* Juridique
-....
 
----
+Bibliographie 2019
 
-## Processus ITÉRATIF et CONTINU
-<iframe src="https://giphy.com/embed/ieaUdBJJC19uw" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
 
 ---
 
-## Veille/Curation/Recherche d'information
-<center>Quelles différences ?</center>
 
-+++
-**Recherche d'information** (moteur de recherche)
-
-On cherche directement les informations (*instant T*)
-+++
-**Veille** 
-
-On recherche des **sources** pour recevoir **plus tard** des informations 
-(*instant T+1*)
-+++
-**Curation**
-
-**Recherche** d'informations (moteur de recherche et/ou résultats de la veille)
-*plus* **Tri**
-*plus* **Éditorialisation**
-
+@css[text-blue fragment](Hello, World!)
 ---
-
-## Le processus de veille
-1. Cibler : pour qui ? Sur quoi ?
-2. Trouver des sources
-3. Trier, sélectionner, valider les sources
-  * *Et si besoin retour en 1*
-4. Récolter les informations
-5. Trier, sélectionner les informations
-  * Si validée : on passe en 6
-  * Sinon, retour en 4, voir en 2
-6. Diffuser
-
----
-
-## Cibler sa veille
-<iframe src="https://giphy.com/embed/QFypAZbq5lz3i" width="480" height="199" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-+++
-
-**Cibler** sa veille
-
-### Faire un plan de veille
-* Cible
-* Fréquence
-* Mode de diffusion
-
-+++
-
-**Cibler** sa veille
-### Mots-clés discriminants
-* Tester les mots-clés
-
----
-
-## Recherche de proche en proche
-
-+++
-
-Recherche de **proche en proche**
-
-### Moteur de recherche (1/2)
-* À partir d'une requête ou plusieurs requêtes
-* À partir des émetteurs d'AAP potentiels
-* À partir des sites qui relaient les AAP
-+++
-Recherche de **proche en proche**
-
-### Moteur de recherche (2/2)
-* Les pages similaires aux pages trouvées (*related:* dans Google)
-* Les requêtes utilisées par d'autres pour trouver le résultat
-+++
-Recherche de **proche en proche**
-
-### Réseaux sociaux
-* Comptes des acteurs précédemment repérés
-* Repérer les hashtags utilisés
-* Repérez les suiveurs et les suivis
-
-+++
-Recherche de **Proche en proche**
-
-### Pour d'autres types de veille
-* Bibliographie
-* Blog Roll
-* Chercheurs, labo
-
----
-
-## En pratique  
-
-<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-+++
-
-et on rassemble tout ce que l'on trouve ici : 
-https://lite.framacalc.org/ceeddrue618
-
----
-
-### Trouver des sources 
-Qui lance et qui relaye les AAP ?
-
----
-
-### 1. Je commence avec ce que je sais déjà
-
-+++
-
-### 1 bis. Trouver la page sur le site
-* Via les fonctions de recherche interne
-
-+++
-
-### 1bis. Trouver la page sur le site
-* Via Google
-mots clé **site:**adresse du site
-
-Exemple pour trouver les appels à projet sur le site de la région nouvelle Aquitaine
-
-*appels à projet site:https://www.nouvelle-aquitaine.fr*
-
----
-
-### 2. J'élargis en cherchant sur le web
-* Quels mots-clés ?
-
-+++
-
-### 2. J'élargis en cherchant sur le web
-* Les pages les plus récentes
-
----
-
-### 3. Je rebondis de proche en proche
-* fonction *pages similaires* du moteur de recherche
-
-![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)  
-
-**Attention cela ne fonctionne pas sur toutes les pages**
-
-+++
-
-ou je cherche dans Google *related:adresse de la page*  
-Exemple : 
-	related:https://www.ac-strasbourg.fr/pedagogie/edd/elaborer-un-projet/les-appels-a-projets-locaux/
-
-+++
-
-### 3. Je rebondis de proche en proche
-* blogroll/liste de lien 
-
----
-
-## Suivre l'actualité des sites repérés
-
-<iframe src="https://giphy.com/embed/NASo2mysXghDq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
-+++
-
-## Suivre l'actualité des sites repérés
-
-* S'abonner à la newsletter
-
-+++
-
-## Suivre l'actualité des sites repérés
-
-* S'abonner aux flux RSS
-   * L'exemple d'Inoreader
-   * Pour aller + loin :  [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
-
-+++
-
-## Suivre l'actualité des sites repérés
-* On peut suivre un site qui n'a pas de flux RSS mais c'est un peu plus compliqué
-* Pour aller + loin : [Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH)  
-
----
-
-## Sans trier soit même ses sources...
-
-+++
-
-### Se créer des alertes
-* TalkwalkerAlert
-* Google Alert
-
-+++
-
-### Sur les réseaux sociaux
-* Enregistrer des recherches
-* Utiliser TweetDeck
-
-+++
-
-### Avantages et inconvénients de ne pas trier ses sources
 @ul
-* Nécessaire de valider *a posteriori*
-* Ouverture vers d'autres sources
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
+---
+
+@box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
+
+---
+## À quoi ça sert ?
+Note: demander aux étudiant qui a déjà fait de la biblio  
+Note: demander aux étudiants de chercher à quoi ça sert individuellement  
+	* puis de confronter à deux
+	* puis de donner la réponse
+
+@ul
+* Documenter et argumenter un travail
+* Valoriser son travail : appui et illustration de ses propres réflexions
+* Faire preuve d'honnêteté scientifique et intellectuelle
+* Aider le lecteur
+	* Identification rapide et facile des documents exploités
+	* Permet parfois de mieux cerner votre point de vue
 @ulend
 
++++
+
+**Bibliographie = outil pour réussir une bonne argumentation**
+---
+## Niveau d'exigence
+0 Aucun travail bibliographique apparent  
+1 Sources bibliographiques consultées mais non apparentes  
+2 Liste de références  
+2+ Liste de références normalisées  
+3 Références de la liste appelées dans le corps de texte  
+3+. Toutes les références de la liste appelées  
+4 Bibliographie judicieusement utilisée pour argumenter quelques points  
+4+ Bibliographie systématiquement utilisée dans l’argumentation  
+5 Bibliographie fait l’objet d’une revue analytique et d’une synthèse dans le rapport
+---
+## Les éléments qui doivent apparaitre dans une bibliographie
+### Le type de document
+Note: Leur donner les documents et leur demander d'identifier le type 
+### 5 types de documents
+* monographie
+* chapitre de monographie
+* contribution à une monographie
+* article de revue
+* page web
+
+Note: Et un PDF ? Et un site web ?
+
 ---
 
-### Des ressources complémentaires
+### Pourquoi une présentation normalisée ?
+- permet d'identifier le type de document
+- permet de reconnaitre les différents éléments importants du document
 
-* [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
-* [Suivre un site qui n'a pas de flux RSS](http://www.bagtheweb.com/b/vh73lH) 
-* [Se créer des alertes](http://www.bagtheweb.com/b/6gErBj) 
-* [Tweetdeck](https://tweetdeck.twitter.com/) : permet de gérer son compte Twitter plus finement, notamment en ayant des colonnes présentant directement les résultats de requêtes pré-enregistrées. Il faut avoir un compte Twitter et c'est avec lui qu'on se connecter à Tweetdeck
+---
+### Quels sont les éléments importants ? Pourquoi ?
+Permettre au lecteur de se faire une idée sur le document
+
+Note: Par deux ils listent les éléments qui leurs semblent important pour chacun des 5 types, certains sont 
+
+---
+
+#### Monographie
+* Auteurs
+* Titre de l'ensemble physique : revue, monographie, site web
+* Titre de la partie (le cas échéant) : article, chapitre, contribution, page web
+* Année de parution
+* 
+
+
+Leur faire découvrir comment on les reconnait
+Leur faire des tests en affichant des références et en leur demandant à quoi elles correspondent
+Les éléments qu'on doit retrouver
+
+---
+
+## Comment on appelle dans le corps du texte
+pourquoi appeler dans le corps du texte
+comment le faire
+règle : dans la biblio on retrouve tout ce qui est appelé dans le corps du texte mais que ce qui est appelé
+
+---
+
+## Où on trouve des documents ,
+cf. e-sidoc
+1. Problématiser
+2. Trouver le vocabulaire utilisé dans le champs
+
+## Petit test d'évaluation à la fin ?
+
+## Zotero
+
 
 ---
 Pour retrouver cette présentation : 
 
-https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
+https://gitpitch.com/helenelax/presentation-UE3_bibliographie/master
 
 ---
 
