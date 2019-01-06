@@ -1,6 +1,4 @@
-# Présentation réalisée dans le cadre de l'UE3 de la LP CEEDDR
-2019  
-Hélène Laxenaire  
-Montpellier SupAgro - Institut de Florac
+# Présentation réalisée dans le cadre de l'UE6 de la LP CEEDDR
+2017
 
-https://gitpitch.com/helenelax/presentation-UE3_bibliographie/master
+https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
