@@ -1,6 +1,7 @@
 
-La veille
-=============================================
+# La veille sur les appels à projets
+
+---
 
 ## À quoi ça sert ?
 
@@ -8,7 +9,6 @@ La veille
 
 ## Différents types de veille
 
-+++
 * Informative
 * Concurentielle
 * Tendances
@@ -22,8 +22,10 @@ La veille
 
 ---
 
-## Veille/Curation/Recherche d'information
+## Veille Curation Recherche d'information
 <center>Quelles différences ?</center>
+note:
+dessiner une frise au tableau
 
 +++
 **Recherche d'information** (moteur de recherche)
@@ -191,6 +193,10 @@ Exemple :
    * L'exemple de Netvibes
    * Pour aller + loin :  [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
 
+note:
+* ajouter le site d'école et nature qui a un flux
+* ajouter le site de la fondation nature et decouverte qui n'en a pas
+* utiliser le compte de stagiaire 1 de netvibes
 +++
 
 ## Suivre l'actualité des sites repérés
@@ -199,7 +205,7 @@ Exemple :
 
 ---
 
-## Sans trier soit même ses sources...
+## Sans trier soi-même ses sources...
 
 +++
 
@@ -243,4 +249,7 @@ Pour retrouver cette présentation :
 https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
+
+
+
 
