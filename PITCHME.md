@@ -76,52 +76,22 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 
 ---
 
-## Recherche de proche en proche
-
-+++
-
-Recherche de **proche en proche**
-
-### Moteur de recherche (1/2)
-* À partir d'une requête ou plusieurs requêtes
-* À partir des émetteurs d'AAP potentiels
-* À partir des sites qui relaient les AAP
-+++
-Recherche de **proche en proche**
-
-### Moteur de recherche (2/2)
-* Les pages similaires aux pages trouvées (*related:* dans Google)
-* Les requêtes utilisées par d'autres pour trouver le résultat
-+++
-Recherche de **proche en proche**
-
-### Réseaux sociaux
-* Comptes des acteurs précédemment repérés
-* Repérer les hashtags utilisés
-* Repérez les suiveurs et les suivis
-
-+++
-Recherche de **Proche en proche**
-
-### Pour d'autres types de veille
-* Bibliographie
-* Blog Roll
-* Chercheurs, labo
-
----
-
 ## En pratique  
 
 <iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 +++
 
-et on rassemble tout ce que l'on trouve ici : 
-https://lite.framacalc.org/ceeddrue618
+On mutualise nos essais ici: 
+http://pad.cdrflorac.fr/p/ceeddrue6_19
+(nom d'organisme, mots-clés,...)
+
+et on rassemble les résultats finalisés ici : 
+https://lite.framacalc.org/ceeddrue6_19
 
 ---
 
 ### Trouver des sources 
-Qui lance et qui relaye les AAP ?
+Qui **lance** et qui **relaye** les AAP ?
 
 ---
 
@@ -146,6 +116,7 @@ Exemple pour trouver les appels à projet sur le site de la région nouvelle Aqu
 
 ### 2. J'élargis en cherchant sur le web
 * Quels mots-clés ?
+	* ceux que j'ai en tête
 
 +++
 
@@ -154,8 +125,18 @@ Exemple pour trouver les appels à projet sur le site de la région nouvelle Aqu
 
 ---
 
-### 3. Je rebondis de proche en proche
-* fonction *pages similaires* du moteur de recherche
+### 3. Je rebondis de proche en proche à partir de mes découvertes
+* Quels mots-clés ?
+	* ceux utilisés par d'autres personnes
++++
+* Quels mots-clés ?
+	* ceux que je trouve dans les appels à projets
+	
+	* identifier les champs lexicaux
+	* trouver les mots-clés discriminants
++++
+### 3. Je rebondis de proche en proche à partir de mes découvertes
+* Les *pages similaires*  à celles que j'ai trouvé dans le moteur de recherche
 
 ![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)  
 
@@ -169,11 +150,22 @@ Exemple :
 
 +++
 
-### 3. Je rebondis de proche en proche
-* blogroll/liste de lien 
+### 3. Je rebondis de proche en proche à partir de mes découvertes
+* blogroll/liste de liens 
 
 ---
 
+### Et sur les réseaux sociaux ?
+* c'est pareil !
+
++++
+
+### Et sur les réseaux sociaux ?
+* identifier les comptes des émeteurs et relayeurs d'APP
+* identifier les hashtags
+* de proche en proche : suiveurs et suivis
+
+---
 ## Suivre l'actualité des sites repérés
 
 <iframe src="https://giphy.com/embed/NASo2mysXghDq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -189,7 +181,7 @@ Exemple :
 ## Suivre l'actualité des sites repérés
 
 * S'abonner aux flux RSS
-   * L'exemple d'Inoreader
+   * L'exemple de Netvibes
    * Pour aller + loin :  [Utiliser des agrégateurs de flux RSS](http://www.bagtheweb.com/b/REzaAm) 
 
 +++
@@ -223,6 +215,13 @@ Exemple :
 @ulend
 
 ---
+### Des questions ?
+
++++
+
+### Qu'avez-vous appris aujourd'hui ?
+
+---
 
 ### Des ressources complémentaires
 
@@ -237,7 +236,4 @@ Pour retrouver cette présentation :
 https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
-
-
-
 
