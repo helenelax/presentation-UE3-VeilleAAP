@@ -119,19 +119,24 @@ Note: écrire sur le pad
 
 ### 2. J'élargis en cherchant sur le web
 * Les pages les plus récentes
-![recherche par date](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/presentation-UE6_veille_AAP/recherche_par_date.png )
+![recherche par date](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/recherche_par_date.png )
 
 ---
 
 ### 3. Je rebondis de proche en proche à partir de mes découvertes
 * Quels mots-clés ?
 	* ceux utilisés par d'autres personnes
+	
 +++
+
+### 3. Je rebondis de proche en proche à partir de mes découvertes
 * Quels mots-clés ?
 	* ceux que je trouve dans les appels à projets
 	* identifier les champs lexicaux
 	* trouver les mots-clés discriminants
+	
 +++
+
 ### 3. Je rebondis de proche en proche à partir de mes découvertes
 * Les *pages similaires*  à celles que j'ai trouvées dans le moteur de recherche
 
@@ -155,7 +160,7 @@ Exemple :
 
 <iframe src="https://giphy.com/embed/f4eXhcyemnGwM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-++++
++++
 
 ### Et sur les réseaux sociaux ?
 * c'est pareil !
@@ -238,7 +243,4 @@ Pour retrouver cette présentation :
 https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
-
-
-
 
