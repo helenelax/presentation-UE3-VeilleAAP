@@ -1,10 +1,12 @@
 
 # La veille sur les appels à projets
-
+note:
+prévenir retour sur ce qu'ils ont appris
 ---
 
 ## À quoi ça sert ?
-
+note:
+je leur pose la question
 ---
 
 ## Différents types de veille
