@@ -68,12 +68,6 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 * Fréquence
 * Mode de diffusion
 
-+++
-
-**Cibler** sa veille
-### Mots-clés discriminants
-* Tester les mots-clés
-
 ---
 
 ## En pratique  
@@ -96,6 +90,7 @@ Qui **lance** et qui **relaye** les AAP ?
 ---
 
 ### 1. Je commence avec ce que je sais déjà
+et je teste
 
 +++
 
@@ -117,11 +112,14 @@ Exemple pour trouver les appels à projet sur le site de la région nouvelle Aqu
 ### 2. J'élargis en cherchant sur le web
 * Quels mots-clés ?
 	* ceux que j'ai en tête
+	
+Note: écrire sur le pad
 
 +++
 
 ### 2. J'élargis en cherchant sur le web
 * Les pages les plus récentes
+![recherche par date](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/presentation-UE6_veille_AAP/recherche_par_date.png )
 
 ---
 
@@ -131,12 +129,11 @@ Exemple pour trouver les appels à projet sur le site de la région nouvelle Aqu
 +++
 * Quels mots-clés ?
 	* ceux que je trouve dans les appels à projets
-	
 	* identifier les champs lexicaux
 	* trouver les mots-clés discriminants
 +++
 ### 3. Je rebondis de proche en proche à partir de mes découvertes
-* Les *pages similaires*  à celles que j'ai trouvé dans le moteur de recherche
+* Les *pages similaires*  à celles que j'ai trouvées dans le moteur de recherche
 
 ![Page similaire](http://www.lamerguez.com/presentations_GitPich/presentation-UE6_veille_AAP/PageSimilaire.png)  
 
@@ -154,6 +151,11 @@ Exemple :
 * blogroll/liste de liens 
 
 ---
+### Et sur les réseaux sociaux ?
+
+<iframe src="https://giphy.com/embed/f4eXhcyemnGwM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+++++
 
 ### Et sur les réseaux sociaux ?
 * c'est pareil !
@@ -161,7 +163,7 @@ Exemple :
 +++
 
 ### Et sur les réseaux sociaux ?
-* identifier les comptes des émeteurs et relayeurs d'APP
+* identifier les comptes des émetteurs et relayeurs d'APP
 * identifier les hashtags
 * de proche en proche : suiveurs et suivis
 
@@ -236,4 +238,7 @@ Pour retrouver cette présentation :
 https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
+
+
+
 
