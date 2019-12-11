@@ -215,11 +215,15 @@ note:
 * TalkwalkerAlert
 * Google Alert
 
+note:montrer exemple sur stagiaire.florac1@gmail le cas échéant
+
 +++
 
 ### Sur les réseaux sociaux
 * Enregistrer des recherches
 * Utiliser TweetDeck
+
+note:montrer les exemples à chaque fois
 
 +++
 
