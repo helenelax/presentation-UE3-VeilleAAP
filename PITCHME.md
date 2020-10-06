@@ -1,12 +1,23 @@
+---
+slideOptions:
+  transition: fade
+  theme: white
+robots: index, follow
+lang: fr
+dir: ltr
+breaks: true
+---
 
 # La veille sur les appels à projets
 note:
 prévenir retour sur ce qu'ils ont appris
+
 ---
 
 ## À quoi ça sert ?
 note:
 je leur pose la question
+
 ---
 
 ## Différents types de veille
@@ -29,16 +40,16 @@ je leur pose la question
 note:
 dessiner une frise au tableau
 
-+++
+----
 **Recherche d'information** (moteur de recherche)
 
 On cherche directement les informations (*instant T*)
-+++
+----
 **Veille** 
 
 On recherche des **sources** pour recevoir **plus tard** des informations 
 (*instant T+1*)
-+++
+----
 **Curation**
 
 **Recherche** d'informations (moteur de recherche et/ou résultats de la veille)
@@ -63,7 +74,7 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 ## Cibler sa veille
 <iframe src="https://giphy.com/embed/QFypAZbq5lz3i" width="480" height="199" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-+++
+----
 
 **Cibler** sa veille
 
@@ -77,7 +88,7 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 ## En pratique  
 
 <iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-+++
+----
 
 On mutualise nos essais ici: 
 http://pad.cdrflorac.fr/p/ceeddrue6_19
@@ -96,12 +107,12 @@ Qui **lance** et qui **relaye** les AAP ?
 ### 1. Je commence avec ce que je sais déjà
 et je teste
 
-+++
+----
 
 ### 1 bis. Trouver la page sur le site
 * Via les fonctions de recherche interne
 
-+++
+----
 
 ### 1bis. Trouver la page sur le site
 * Via Google
@@ -119,7 +130,7 @@ Exemple pour trouver les appels à projet sur le site de la région nouvelle Aqu
 	
 Note: écrire sur le pad
 
-+++
+----
 
 ### 2. J'élargis en cherchant sur le web
 * Les pages les plus récentes
@@ -131,7 +142,7 @@ Note: écrire sur le pad
 * Quels mots-clés ?
 	* ceux utilisés par d'autres personnes
 	
-+++
+----
 
 ### 3. Je rebondis de proche en proche à partir de mes découvertes
 * Quels mots-clés ?
@@ -139,7 +150,7 @@ Note: écrire sur le pad
 	* identifier les champs lexicaux
 	* trouver les mots-clés discriminants
 	
-+++
+----
 
 ### 3. Je rebondis de proche en proche à partir de mes découvertes
 * Les *pages similaires*  à celles que j'ai trouvées dans le moteur de recherche
@@ -148,13 +159,13 @@ Note: écrire sur le pad
 
 **Attention cela ne fonctionne pas sur toutes les pages**
 
-+++
+----
 
 ou je cherche dans Google *related:adresse de la page*  
 Exemple : 
 	related:https://www.ac-strasbourg.fr/pedagogie/edd/elaborer-un-projet/les-appels-a-projets-locaux/
 
-+++
+----
 
 ### 3. Je rebondis de proche en proche à partir de mes découvertes
 * blogroll/liste de liens 
@@ -164,12 +175,12 @@ Exemple :
 
 <iframe src="https://giphy.com/embed/f4eXhcyemnGwM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-+++
+----
 
 ### Et sur les réseaux sociaux ?
 * c'est pareil !
 
-+++
+----
 
 ### Et sur les réseaux sociaux ?
 * identifier les comptes des émetteurs et relayeurs d'APP
@@ -181,13 +192,13 @@ Exemple :
 
 <iframe src="https://giphy.com/embed/NASo2mysXghDq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-+++
+----
 
 ## Suivre l'actualité des sites repérés
 
 * S'abonner à la newsletter
 
-+++
+----
 
 ## Suivre l'actualité des sites repérés
 
@@ -199,7 +210,7 @@ note:
 * ajouter le site d'école et nature qui a un flux
 * ajouter le site de la fondation nature et decouverte qui n'en a pas
 * utiliser le compte de stagiaire 1 de netvibes
-+++
+----
 
 ## Suivre l'actualité des sites repérés
 * On peut suivre un site qui n'a pas de flux RSS mais c'est un peu plus compliqué
@@ -209,7 +220,7 @@ note:
 
 ## Sans trier soi-même ses sources...
 
-+++
+----
 
 ### Se créer des alertes
 * TalkwalkerAlert
@@ -217,7 +228,7 @@ note:
 
 note:montrer exemple sur stagiaire.florac1@gmail le cas échéant
 
-+++
+----
 
 ### Sur les réseaux sociaux
 * Enregistrer des recherches
@@ -225,7 +236,7 @@ note:montrer exemple sur stagiaire.florac1@gmail le cas échéant
 
 note:montrer les exemples à chaque fois
 
-+++
+----
 
 ### Avantages et inconvénients de ne pas trier ses sources
 @ul
@@ -236,7 +247,7 @@ note:montrer les exemples à chaque fois
 ---
 ### Des questions ?
 
-+++
+----
 
 ### Qu'avez-vous appris aujourd'hui ?
 
@@ -255,6 +266,10 @@ Pour retrouver cette présentation :
 https://gitpitch.com/helenelax/presentation-UE6_Veille_AAP/master
 
 ---
+
+
+
+
 
 
 
